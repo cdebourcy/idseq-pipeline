@@ -15,7 +15,7 @@ Usage
 
 To install after cloning:
 
-    $ pip install -e .
+    $ pip2 install -e .
 
 
 Developers
